@@ -1,0 +1,10 @@
+Faculty Name: 
+Course Title: OOP
+Semester: 4
+Credit Hours: 4
+
+Faculty Name: 
+Course Title: TPL
+Semester: 8
+Credit Hours: 3
+
